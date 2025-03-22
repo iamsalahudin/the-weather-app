@@ -12,9 +12,10 @@ export default function Home() {
   const [selectedState, setSelectedState] = useState("Punjab");
   const [selectedCountry, setSelectedCountry] = useState("PK");
   const [bgURL, setBgURL] = useState("/images/10d.jpg");
-  const { weather, isLoading, isError } = useWeatherData(
-    selectedCity || "Lahore"
-  );
+  const { weather, isLoading, isError } = useWeatherData({
+    city: selectedCity || "Lahore",
+    state: selectedState || undefined
+  });
   const [showForm, setShowForm] = useState(false);
 
   useEffect(() => {
@@ -29,8 +30,8 @@ export default function Home() {
     setSelectedState(thisCity?.state || undefined);
     setSelectedCountry(thisCity?.country);
 
-    if (weather?.weather[0]?.icon)
-      setBgURL(`/images/${weather?.weather[0]?.icon}.jpg`);
+    if (weather?.icon)
+      setBgURL(`/images/${weather.icon}.jpg`);
   }, [weather, selectedCity, citiesData]);
 
   if (isError)
@@ -39,7 +40,6 @@ export default function Home() {
     );
   if (isLoading)
     return <WaitDisplay type="fetch" data="Fetching data... Please Wait" />;
-  console.log(weather?.weather[0]?.icon);
 
   return (
     <div
@@ -53,8 +53,6 @@ export default function Home() {
           cityData={weather}
           showForm={showForm}
           setShowForm={setShowForm}
-          selectedCountry={selectedCountry}
-          selectedState={selectedState}
         />
         <SearchForm
           showForm={showForm}
