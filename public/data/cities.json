@@ -1,0 +1,342 @@
+[
+    {
+        "id": 1172451,
+        "name": "Karachi",
+        "state": "Sindh",
+        "country": "PK",
+        "coord": {
+            "lon": 67.0822,
+            "lat": 24.9056
+        }
+    },
+    {
+        "id": 1174872,
+        "name": "Lahore",
+        "state": "Punjab",
+        "country": "PK",
+        "coord": {
+            "lon": 74.3587,
+            "lat": 31.5204
+        }
+    },
+    {
+        "id": 1176734,
+        "name": "Islamabad",
+        "state": "Capital",
+        "country": "PK",
+        "coord": {
+            "lon": 73.0479,
+            "lat": 33.6844
+        }
+    },
+    {
+        "id": 1177662,
+        "name": "Rawalpindi",
+        "state": "Punjab",
+        "country": "PK",
+        "coord": {
+            "lon": 73.0479,
+            "lat": 33.6007
+        }
+    },
+    {
+        "id": 1177865,
+        "name": "Faisalabad",
+        "state": "Punjab",
+        "country": "PK",
+        "coord": {
+            "lon": 73.0741,
+            "lat": 31.418
+        }
+    },
+    {
+        "id": 1178657,
+        "name": "Multan",
+        "state": "Punjab",
+        "country": "PK",
+        "coord": {
+            "lon": 71.5249,
+            "lat": 30.1575
+        }
+    },
+    {
+        "id": 1173923,
+        "name": "Peshawar",
+        "state": "Khyber Pakhtunkhwa",
+        "country": "PK",
+        "coord": {
+            "lon": 71.5785,
+            "lat": 34.0151
+        }
+    },
+    {
+        "id": 1170373,
+        "name": "Quetta",
+        "state": "Balochistan",
+        "country": "PK",
+        "coord": {
+            "lon": 66.9963,
+            "lat": 30.1798
+        }
+    },
+    {
+        "id": 1275339,
+        "name": "Mumbai",
+        "state": "Maharashtra",
+        "country": "IN",
+        "coord": {
+            "lon": 72.8479,
+            "lat": 19.0144
+        }
+    },
+    {
+        "id": 1273294,
+        "name": "Delhi",
+        "state": "Delhi",
+        "country": "IN",
+        "coord": {
+            "lon": 77.2315,
+            "lat": 28.6519
+        }
+    },
+    {
+        "id": 1261481,
+        "name": "Bangalore",
+        "state": "Karnataka",
+        "country": "IN",
+        "coord": {
+            "lon": 77.5937,
+            "lat": 12.9716
+        }
+    },
+    {
+        "id": 1277333,
+        "name": "Kolkata",
+        "state": "West Bengal",
+        "country": "IN",
+        "coord": {
+            "lon": 88.3639,
+            "lat": 22.5726
+        }
+    },
+    {
+        "id": 1275004,
+        "name": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "IN",
+        "coord": {
+            "lon": 80.2785,
+            "lat": 13.0878
+        }
+    },
+    {
+        "id": 5128581,
+        "name": "New York",
+        "state": "New York",
+        "country": "US",
+        "coord": {
+            "lon": -74.006,
+            "lat": 40.7128
+        }
+    },
+    {
+        "id": 5368361,
+        "name": "Los Angeles",
+        "state": "California",
+        "country": "US",
+        "coord": {
+            "lon": -118.2437,
+            "lat": 34.0522
+        }
+    },
+    {
+        "id": 4887398,
+        "name": "Chicago",
+        "state": "Illinois",
+        "country": "US",
+        "coord": {
+            "lon": -87.6298,
+            "lat": 41.8781
+        }
+    },
+    {
+        "id": 4699066,
+        "name": "Houston",
+        "state": "Texas",
+        "country": "US",
+        "coord": {
+            "lon": -95.3698,
+            "lat": 29.7604
+        }
+    },
+    {
+        "id": 5308655,
+        "name": "Phoenix",
+        "state": "Arizona",
+        "country": "US",
+        "coord": {
+            "lon": -112.074,
+            "lat": 33.4484
+        }
+    },
+    {
+        "id": 2643743,
+        "name": "London",
+        "state": "England",
+        "country": "GB",
+        "coord": {
+            "lon": -0.1257,
+            "lat": 51.5085
+        }
+    },
+    {
+        "id": 2635167,
+        "name": "Manchester",
+        "state": "England",
+        "country": "GB",
+        "coord": {
+            "lon": -2.2426,
+            "lat": 53.4808
+        }
+    },
+    {
+        "id": 2655603,
+        "name": "Edinburgh",
+        "state": "Scotland",
+        "country": "GB",
+        "coord": {
+            "lon": -3.189,
+            "lat": 55.9533
+        }
+    },
+    {
+        "id": 2950159,
+        "name": "Berlin",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 13.4105,
+            "lat": 52.5244
+        }
+    },
+    {
+        "id": 2867714,
+        "name": "Hamburg",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 9.9937,
+            "lat": 53.5511
+        }
+    },
+    {
+        "id": 2925533,
+        "name": "Munich",
+        "state": "Bavaria",
+        "country": "DE",
+        "coord": {
+            "lon": 11.582,
+            "lat": 48.1351
+        }
+    },
+    {
+        "id": 2147714,
+        "name": "Sydney",
+        "state": "New South Wales",
+        "country": "AU",
+        "coord": {
+            "lon": 151.2073,
+            "lat": -33.8679
+        }
+    },
+    {
+        "id": 2174003,
+        "name": "Brisbane",
+        "state": "Queensland",
+        "country": "AU",
+        "coord": {
+            "lon": 153.0281,
+            "lat": -27.4679
+        }
+    },
+    {
+        "id": 2158177,
+        "name": "Melbourne",
+        "state": "Victoria",
+        "country": "AU",
+        "coord": {
+            "lon": 144.9631,
+            "lat": -37.8136
+        }
+    },
+    {
+        "id": 1796236,
+        "name": "Beijing",
+        "state": "",
+        "country": "CN",
+        "coord": {
+            "lon": 116.3972,
+            "lat": 39.9075
+        }
+    },
+    {
+        "id": 1795565,
+        "name": "Shanghai",
+        "state": "",
+        "country": "CN",
+        "coord": {
+            "lon": 121.4737,
+            "lat": 31.2304
+        }
+    },
+    {
+        "id": 1816670,
+        "name": "Guangzhou",
+        "state": "",
+        "country": "CN",
+        "coord": {
+            "lon": 113.2644,
+            "lat": 23.1291
+        }
+    },
+    {
+        "id": 108410,
+        "name": "Riyadh",
+        "state": "",
+        "country": "SA",
+        "coord": {
+            "lon": 46.7219,
+            "lat": 24.7136
+        }
+    },
+    {
+        "id": 105343,
+        "name": "Jeddah",
+        "state": "",
+        "country": "SA",
+        "coord": {
+            "lon": 39.1979,
+            "lat": 21.4858
+        }
+    },
+    {
+        "id": 104515,
+        "name": "Mecca",
+        "state": "",
+        "country": "SA",
+        "coord": {
+            "lon": 39.8262,
+            "lat": 21.3891
+        }
+    },
+    {
+        "id": 104570,
+        "name": "Medina",
+        "state": "",
+        "country": "SA",
+        "coord": {
+            "lon": 39.6142,
+            "lat": 24.4709
+        }
+    }
+]
